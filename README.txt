@@ -1,6 +1,5 @@
-
-Yossef Hai Gavriel 304914716
-Omer Pesah 203637574
+Omer Pesah
+Yossef Hai Gavriel  
 
 Operating system:
 Windows10 - 64Bit
